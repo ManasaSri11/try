@@ -7,4 +7,10 @@ public void add()
 	c=a+b;
 	System.out.println(c);
 }
+public void div()
+{
+	int a=01,b=05,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
