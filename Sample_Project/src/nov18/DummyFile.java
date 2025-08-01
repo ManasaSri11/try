@@ -9,8 +9,8 @@ public void add()
 }
 public void div()
 {
-	int a=01,b=05,c;
-	c=a+b;
+	int a=20,b=05,c;
+	c=a/b;
 	System.out.println(c);
 }
 }
